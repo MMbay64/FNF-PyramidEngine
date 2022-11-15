@@ -1,11 +1,11 @@
 ## Friday Night Funkin' - Pyramid Engine 
 
-A engine that's gets bruhed on
+A engine that's better than bit engine 
 
 ## Features
 
-* A Customizable Source
-* Some Bit Engine features
+* pyramid style
+* 💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀
 
 ## Credits
 
